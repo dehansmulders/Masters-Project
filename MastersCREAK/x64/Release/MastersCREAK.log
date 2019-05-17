@@ -1,0 +1,231 @@
+﻿cl : Command line warning D9002: ignoring unknown option '/arch:SSE2'
+  MastersCREAK.cpp
+C:\Users\dehans\Documents\Masters-Project\MastersCREAK\DescriptorTest.h(41): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'unsigned __int64'
+  C:\Users\dehans\Documents\Masters-Project\MastersCREAK\DescriptorTest.h(41): note: consider using '%zd' in the format string
+C:\Users\dehans\Documents\Masters-Project\MastersCREAK\Landmark.h(115): warning C4244: 'argument': conversion from '_Tp' to 'float', possible loss of data
+          with
+          [
+              _Tp=double
+          ]
+C:\Users\dehans\Documents\Masters-Project\MastersCREAK\Landmark.h(154): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\dehans\Documents\Masters-Project\MastersCREAK\Landmark.h(155): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\dehans\Documents\Masters-Project\MastersCREAK\Landmark.h(156): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\dehans\Documents\Masters-Project\MastersCREAK\Landmark.h(157): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\dehans\Documents\Masters-Project\MastersCREAK\Landmark.h(168): warning C4244: '=': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\dehans\Documents\Masters-Project\MastersCREAK\Landmark.h(173): warning C4244: '=': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\dehans\Documents\Masters-Project\MastersCREAK\Landmark.h(175): warning C4244: '=': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\dehans\Documents\Masters-Project\MastersCREAK\Landmark.h(180): warning C4244: '=': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\dehans\Documents\Masters-Project\MastersCREAK\Landmark.h(273): warning C4244: '=': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\dehans\Documents\Masters-Project\MastersCREAK\Landmark.h(274): warning C4244: '=': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\dehans\Documents\Masters-Project\MastersCREAK\Landmark.h(275): warning C4244: '=': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\dehans\Documents\Masters-Project\MastersCREAK\Landmark.h(306): warning C4244: 'argument': conversion from '_Tp' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=double
+          ]
+          and
+          [
+              _Tp=float
+          ]
+C:\Users\dehans\Documents\Masters-Project\MastersCREAK\Landmark.h(307): warning C4244: 'argument': conversion from '_Tp' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=double
+          ]
+          and
+          [
+              _Tp=float
+          ]
+C:\Users\dehans\Documents\Masters-Project\MastersCREAK\Landmark.h(329): warning C4244: 'argument': conversion from 'float' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\dehans\Documents\Masters-Project\MastersCREAK\Landmark.h(345): warning C4244: 'argument': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\dehans\Documents\Masters-Project\MastersCREAK\Landmark.h(355): warning C4244: 'argument': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\dehans\Documents\Masters-Project\MastersCREAK\Landmark.h(367): warning C4244: 'argument': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\dehans\Documents\Masters-Project\MastersCREAK\Landmark.h(368): warning C4244: 'argument': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\dehans\Documents\Masters-Project\MastersCREAK\EKF.h(154): warning C4552: '-': result of expression not used
+C:\Users\dehans\Documents\Masters-Project\MastersCREAK\EKF.h(306): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\dehans\Documents\Masters-Project\MastersCREAK\EKF.h(388): warning C4244: '=': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\dehans\Documents\Masters-Project\MastersCREAK\EKF.h(389): warning C4244: '=': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\dehans\Documents\Masters-Project\MastersCREAK\EKF.h(390): warning C4244: '=': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\dehans\Documents\Masters-Project\MastersCREAK\EKF.h(392): warning C4244: '=': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\dehans\Documents\Masters-Project\MastersCREAK\EKF.h(393): warning C4244: '=': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\dehans\Documents\Masters-Project\MastersCREAK\EKF.h(394): warning C4244: '=': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\dehans\Documents\Masters-Project\MastersCREAK\EKF.h(398): warning C4244: '=': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\dehans\Documents\Masters-Project\MastersCREAK\EKF.h(399): warning C4244: '=': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\dehans\Documents\Masters-Project\MastersCREAK\EKF.h(400): warning C4244: '=': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\dehans\Documents\Masters-Project\MastersCREAK\EKF.h(401): warning C4244: '=': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\dehans\Documents\Masters-Project\MastersCREAK\EKF.h(402): warning C4244: '=': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\dehans\Documents\Masters-Project\MastersCREAK\EKF.h(403): warning C4244: '=': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\dehans\Documents\Masters-Project\MastersCREAK\SLAM.h(58): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\dehans\Documents\Masters-Project\MastersCREAK\SLAM.h(140): warning C4244: '=': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\dehans\Documents\Masters-Project\MastersCREAK\SLAM.h(141): warning C4244: '=': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\dehans\Documents\Masters-Project\MastersCREAK\SLAM.h(142): warning C4244: '=': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\dehans\Documents\Masters-Project\MastersCREAK\SLAM.h(174): warning C4244: '=': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\dehans\Documents\Masters-Project\MastersCREAK\SLAM.h(175): warning C4244: '=': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\dehans\Documents\Masters-Project\MastersCREAK\SLAM.h(176): warning C4244: '=': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\dehans\Documents\Masters-Project\MastersCREAK\SLAM.h(177): warning C4244: '=': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\dehans\Documents\Masters-Project\MastersCREAK\SLAM.h(88): warning C4101: 'range_o': unreferenced local variable
+C:\Users\dehans\Documents\Masters-Project\MastersCREAK\SLAM.h(94): warning C4101: 'u_pitch': unreferenced local variable
+C:\Users\dehans\Documents\Masters-Project\MastersCREAK\Odometry.h(56): warning C4244: 'argument': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\dehans\Documents\Masters-Project\MastersCREAK\Odometry.h(181): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\dehans\Documents\Masters-Project\MastersCREAK\Odometry.h(183): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\dehans\Documents\Masters-Project\MastersCREAK\Odometry.h(246): warning C4244: 'argument': conversion from '_Tp' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=double
+          ]
+          and
+          [
+              _Tp=float
+          ]
+C:\Users\dehans\Documents\Masters-Project\MastersCREAK\Odometry.h(292): warning C4244: 'argument': conversion from '_Tp' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=double
+          ]
+          and
+          [
+              _Tp=float
+          ]
+C:\Users\dehans\Documents\Masters-Project\MastersCREAK\Odometry.h(302): warning C4244: 'argument': conversion from '_Tp' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=double
+          ]
+          and
+          [
+              _Tp=float
+          ]
+  Generating code
+  457 of 4078 functions (11.2%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    213 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  MastersCREAK.vcxproj -> C:\Users\dehans\Documents\Masters-Project\x64\Release\MastersCREAK.exe
